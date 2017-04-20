@@ -30,13 +30,13 @@ on Oracle Java 1.8).
 
 linux, bsd, osx...
 
-    git pull https://github.com/bladh/jsnake.git
+    git clone https://github.com/bladh/jsnake.git
     cd jsnake
     ./gradlew run
 
 windows...
 
-    git pull https://github.com/bladh/jsnake.git
+    git clone https://github.com/bladh/jsnake.git
     cd jsnake
     gradlew run
 
